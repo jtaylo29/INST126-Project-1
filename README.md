@@ -11,4 +11,4 @@ This program is a basic calculator that allows users to do basic and limited ope
 
 6. If user chooses exponentiation, it will take two input numbers, exponentiate it, and give an output. It will exponentiate the numbers in the following order: first^second. 
 
-7. If user inputs a non number, an error message is given. 
+7. If user inputs an invalid option or non number, an error message is given. 
